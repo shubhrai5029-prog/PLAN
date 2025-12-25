@@ -99,7 +99,7 @@ You bring so much joy, laughter, and love to my world world - and into my life. 
     
     // Sealed state
     sealedTitle: "Birthday Letter Sealed with Love",
-    sealedSubtitle: "Happy Birthday, My Everything 🎉",
+    sealedSubtitle: "Happy Birthday, Elee 🐘❤️",
     sealedEmoji: "💝",
     heartCount: 7,
     
